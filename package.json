@@ -1,0 +1,29 @@
+{
+  "name": "tutorialclassaope",
+  "version": "1.0.0",
+  "description": "An api to manage time and date for lectures in AOPE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OladitiSodiq/LectureTimeManagement.git"
+  },
+  "author": "Oladiti Sodiq Oladimeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OladitiSodiq/LectureTimeManagement/issues"
+  },
+  "homepage": "https://github.com/OladitiSodiq/LectureTimeManagement#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "mongoose": "^6.8.0",
+    "mysql": "^2.18.1"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
+}
